@@ -26,7 +26,7 @@ A production-ready API template built with Express.js, TypeScript, and Prisma OR
 
 1. Clone this repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/raworiginal/express-ts-api-template.git
 cd express-ts-api-template
 ```
 
