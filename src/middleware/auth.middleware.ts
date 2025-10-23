@@ -32,3 +32,5 @@ const requireAuth = async (req: Request, res: Response, next: NextFunction) => {
 		res.status(500).json({ error: `Internal server error during auth` });
 	}
 };
+
+export default requireAuth;
